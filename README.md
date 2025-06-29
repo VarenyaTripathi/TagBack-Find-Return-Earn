@@ -21,8 +21,8 @@ A production-ready React Native app built with Expo that helps people report and
 
 ## 📱 Live Demo
 
-- **Web App**: [Deploy to see live demo]
-- **GitHub Repository**: [Your GitHub URL here]
+- **Web App**: https://stalwart-pasca-b5622f.netlify.app/
+- **GitHub Repository**: https://github.com/VarenyaTripathi/smart-lost-and-found
 
 ## 🔧 Setup Instructions
 
@@ -49,8 +49,8 @@ cp .env.example .env
 
 2. Update `.env` with your Supabase credentials:
 ```env
-EXPO_PUBLIC_SUPABASE_URL=your_supabase_project_url
-EXPO_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
+EXPO_PUBLIC_SUPABASE_URL=https://ezivtzclzpnmtrzrpyvn.supabase.co
+EXPO_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV6aXZ0emNsenBubXRyenJweXZuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA5NjI0MzIsImV4cCI6MjA2NjUzODQzMn0.u-TCWJhLLBIc2Ui3S3PqO_P0U-_XcgVXfQ_kubX6_tI
 ```
 
 ### 3. Supabase Setup
@@ -134,5 +134,5 @@ For support, email support@smartlostandfound.com or create an issue in this repo
 
 | Variable | Description | Required |
 |----------|-------------|----------|
-| `EXPO_PUBLIC_SUPABASE_URL` | Your Supabase project URL | Yes |
-| `EXPO_PUBLIC_SUPABASE_ANON_KEY` | Your Supabase anonymous key | Yes |
+| `EXPO_PUBLIC_SUPABASE_URL` | https://ezivtzclzpnmtrzrpyvn.supabase.co | Yes |
+| `EXPO_PUBLIC_SUPABASE_ANON_KEY` | eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV6aXZ0emNsenBubXRyenJweXZuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA5NjI0MzIsImV4cCI6MjA2NjUzODQzMn0.u-TCWJhLLBIc2Ui3S3PqO_P0U-_XcgVXfQ_kubX6_tI | Yes |
