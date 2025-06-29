@@ -136,11 +136,3 @@ For support, email support@smartlostandfound.com or create an issue in this repo
 |----------|-------------|----------|
 | `EXPO_PUBLIC_SUPABASE_URL` | Your Supabase project URL | Yes |
 | `EXPO_PUBLIC_SUPABASE_ANON_KEY` | Your Supabase anonymous key | Yes |
-
-## 📱 Screenshots
-
-[Add screenshots of your app here]
-
----
-
-Built with ❤️ using Expo and Supabase
