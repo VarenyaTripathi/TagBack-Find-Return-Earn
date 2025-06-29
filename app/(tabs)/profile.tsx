@@ -191,6 +191,7 @@ export default function ProfileScreen() {
 
         <View style={styles.footer}>
           <Text style={styles.footerText}>Smart Lost & Found v1.0.0</Text>
+          <Text style={styles.footerText}>Built with Bolt.new</Text>
           <Text style={styles.footerSubtext}>
             Making the world a more honest place, one return at a time.
           </Text>
