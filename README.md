@@ -1,5 +1,7 @@
 # Smart Lost & Found App
 
+⚠️ This project is currently under development. Some features described below may not yet be implemented.
+
 A production-ready React Native app built with Expo that helps people report and find lost items using smart matching algorithms.
 
 ## 🚀 Features
