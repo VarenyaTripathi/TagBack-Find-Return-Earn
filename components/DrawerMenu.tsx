@@ -99,7 +99,7 @@ export default function DrawerMenu({ visible, onClose }: DrawerMenuProps) {
                 <View style={styles.logoContainer}>
                   <Home size={32} color="#667eea" />
                 </View>
-                <Text style={styles.appName}>Smart Lost & Found</Text>
+                <Text style={styles.appName}>TagBack: Find, Return, Earn</Text>
                 <Text style={styles.appTagline}>Reuniting people with their belongings</Text>
               </View>
             </View>

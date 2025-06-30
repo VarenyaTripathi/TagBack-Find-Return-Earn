@@ -134,7 +134,7 @@ export default function AuthScreen() {
             <View style={styles.iconContainer}>
               <Shield size={48} color="white" strokeWidth={2} />
             </View>
-            <Text style={styles.title}>Smart Lost & Found</Text>
+            <Text style={styles.title}>TagBack: Find, Return, Earn</Text>
             <Text style={styles.subtitle}>
               {isLogin ? 'Welcome back!' : 'Join our community'}
             </Text>

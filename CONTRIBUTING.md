@@ -1,6 +1,6 @@
-# Contributing to Smart Lost & Found
+# Contributing to TagBack
 
-Thank you for your interest in contributing to Smart Lost & Found! This document provides guidelines and instructions for contributing to the project.
+Thank you for your interest in contributing to TagBack: Find, Return, Earn! This document provides guidelines and instructions for contributing to the project.
 
 ## 🚀 Getting Started
 
@@ -118,4 +118,4 @@ If you have questions about contributing, feel free to:
 - Contact the maintainers
 - Join our community discussions
 
-Thank you for contributing to Smart Lost & Found! 🎉
+Thank you for contributing to TagBack! 🎉

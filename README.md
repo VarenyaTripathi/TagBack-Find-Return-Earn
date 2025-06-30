@@ -1,4 +1,4 @@
-# Smart Lost & Found App
+# TagBack: Find, Return, Earn- A Smart Lost & Found App
 
 ⚠️ This project is currently under development. Some features described below may not yet be implemented.
 

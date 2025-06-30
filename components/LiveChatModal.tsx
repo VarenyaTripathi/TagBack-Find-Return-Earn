@@ -30,7 +30,7 @@ export default function LiveChatModal({ visible, onClose }: LiveChatModalProps) 
   const [messages, setMessages] = useState<Message[]>([
     {
       id: '1',
-      text: 'Hello! Welcome to Smart Lost & Found support. How can I help you today?',
+      text: 'Hello! Welcome to TagBack support. How can I help you today?',
       isUser: false,
       timestamp: new Date(),
     },
