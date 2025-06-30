@@ -136,7 +136,7 @@ export default function AuthScreen() {
             </View>
             <Text style={styles.title}>TagBack: Find, Return, Earn</Text>
             <Text style={styles.subtitle}>
-              A Smart Lost & Found Platform 
+              A Smart Lost & Found Platform <br></br>
               {isLogin ? 'Welcome back!' : 'Join our community'}
             </Text>
           </View>
